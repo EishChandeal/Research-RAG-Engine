@@ -1,0 +1,5 @@
+services:
+  grobid:
+    image: grobid/grobid:0.8.2-crf
+    ports:
+      - "8070:8070"
