@@ -67,3 +67,5 @@ To keep the requirements.text file up to date cleanly (just for possible use in 
 ```bash
 poetry export -f requirements.txt --without-hashes > requirements.txt
 ```
+
+<img width="7269" height="6091" alt="image" src="https://github.com/user-attachments/assets/87b87907-f996-4648-858a-124054820c80" />
